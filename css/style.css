@@ -6249,14 +6249,14 @@ html.rd-navbar-fixed-linked .page {
 @media(min-width:576px) {
     .rd-navbar-sidebar .rd-navbar-toggle {
         top: 20px;
-        right: 20px
+        left: 20px
     }
 }
 
 @media(min-width:992px) {
     .rd-navbar-sidebar .rd-navbar-toggle {
         top: 40px;
-        right: 15px;
+        left: 15px;
         width: 60px;
         height: 60px;
         line-height: 60px
@@ -6265,7 +6265,7 @@ html.rd-navbar-fixed-linked .page {
 
 @media(min-width:1360px) {
     .rd-navbar-sidebar .rd-navbar-toggle {
-        right: 62px
+        left: 62px
     }
 }
 
@@ -6300,21 +6300,21 @@ html.rd-navbar-fixed-linked .page {
 
 @media(min-width:576px) {
     .rd-navbar-sidebar .rd-navbar-nav-wrap {
-        width: 350px;
+        width: 100%;
         padding: 80px 30px 30px 50px
     }
 }
 
 @media(min-width:992px) {
     .rd-navbar-sidebar .rd-navbar-nav-wrap {
-        width: 400px;
+        width: 100%;
         padding: 112px 40px 50px 65px
     }
 }
 
 @media(min-width:1200px) {
     .rd-navbar-sidebar .rd-navbar-nav-wrap {
-        width: 455px;
+        width: 100%;
         padding-left: 85px
     }
 }
